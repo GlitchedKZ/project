@@ -1,0 +1,58 @@
+<!--Classifying file-->
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<!--This is the beginning of the actual website-->
+<head>
+    <meta charset="UTF-8">
+    <meta name= "description" content= "World Wanderer: Where Women empower & travel together">
+    <title> World Wanderer </title>
+</head>
+
+<!--Example of embedding css withing html-->
+<body> 
+<body style= "background-color:rgb(226, 247, 226)"></body>
+<!--logo adding so that it can link to our home page (currently just google)-->
+<a href="https://www.google.com" target="_blank">
+    <img alt="World Wanderer Logo" src="C:\Users\KZ\Desktop\CFG Final Project\World Wanderer Transparent logo -KZ.png"
+         width="200" height="105">
+</a>
+<!--Title of the Website- Take out if the log is sufficient
+<header>
+        <b> <header style="font-size: xx-large;color: rgb(119, 15, 93);">
+        World Wanderer
+        </b>
+    </header>-->
+    <br/><b><hr/></b>
+
+    <p style= "color:rgb(100, 21, 83)"> <i>Where Women Empower & Travel </i> </p>
+</body>
+
+<!--Cont. Webpage-->
+<header>    
+    <!--This is just a link so that when someone clicks London,UK it leads to a webpage with all the relevant blogs, travel stuff of LDN-->
+        <a href="https://www.london.gov.uk/" target="_blank">London,UK</a>   
+<h2>TrendiEAST LDN</h2>
+</header>
+<!--Written content by Khizara - paragraph-->
+<main>
+    
+    <p class="large">"Atypical to Shoreditch and 'Camden" is a not an untypical comment about  East London. However, the area of Walthamstow (postcode: E17) is an exciting district in North East London and resides within the Official London Borough of Culture (2019) - Waltham Forest. Being the last stop on the Victoria Line, Walthamstow Central, with its recognisable art-deco façade, is easily accessible by all methods of public transport, from the underground to the big old red buses that flood LDN's streets.<br />
+        <br />
+        Having undergone major developments in the last decade, this daring district has all that you might want to explore within walking distance or a bike ride away. From the quaint landscapes of the lakes, parks and wetlands, to the radiant culture infused in its streets, markets and malls, Walthamstow is where 'it's at', a diverse population which brings together a colourful, close-knit community.<br />
+        <br />
+        Here are a few of our <b>Walthamstow</b> highlights, a creative hub for talent young and old.<br/>
+     </hr>  
+    </p>
+    
+
+</main>
+
+<footer>
+
+</footer>
+</body>
+
+
+
+</html>
